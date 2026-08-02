@@ -50,38 +50,38 @@ Give repetitive work to code. Keep the curiosity for yourself.
 
 ### [ManifestAutoUpdate-fix](https://github.com/tymolu233/ManifestAutoUpdate-fix)
 
-A practical automation project for keeping manifests and release workflows in sync.
+自动使用 GitHub Actions 抓取 Steam 游戏清单，减少手动维护 manifest 的工作量。
 
-`Python` `automation` `44 ★` `15 forks`
+`Python` `GitHub Actions` `44 ★` `15 forks`
 
 </td>
 <td width="50%">
 
-### [x64dbg-mcp](https://github.com/tymolu233/x64dbg-mcp)
+### [pi-security-platform](https://github.com/tymolu233/pi-security-platform)
 
-An MCP server plugin that connects x64dbg with AI agents and external tools through JSON-RPC over HTTP/SSE.
+A WIP multi-agent CTF and security analysis platform built on Pi, with Docker-sandboxed specialist agents.
 
-`C++` `debugging` `MCP`
+`TypeScript` `AI agents` `security`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [src-hunter-skill](https://github.com/tymolu233/src-hunter-skill)
+### [ezOnline](https://github.com/tymolu233/ezOnline)
 
-A structured security research skill pack for practical SRC and bug bounty workflows.
+让 Minecraft 异地联机像局域网一样简单：无需端口映射、虚拟网卡或额外 VPN。
 
-`security` `AI tooling` `research`
+`Rust` `Minecraft` `networking`
 
 </td>
 <td width="50%">
 
-### [cf-workers-et-ws](https://github.com/tymolu233/cf-workers-et-ws)
+### [fuck_labsafe](https://github.com/tymolu233/fuck_labsafe)
 
-An EasyTier WebSocket service built for Cloudflare Workers.
+A Python script for automating time-based tasks on the lab safety education platform.
 
-`JavaScript` `Cloudflare Workers` `networking`
+`Python` `automation` `3 ★`
 
 </td>
 </tr>
