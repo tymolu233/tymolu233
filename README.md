@@ -97,12 +97,12 @@ A Python script for automating time-based tasks on the lab safety education plat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tymolu233&show_icons=true&hide_border=true&bg_color=080a0f&title_color=a5f26b&text_color=c7d4c0&icon_color=a5f26b&ring_color=a5f26b&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymolu233&layout=compact&hide_border=true&bg_color=080a0f&title_color=a5f26b&text_color=c7d4c0&icon_color=a5f26b&langs_count=8" height="165" alt="Top languages" />
+<img src="./assets/github-stats.svg" height="205" alt="GitHub statistics" />
+<img src="./assets/top-languages.svg" height="205" alt="Top languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tymolu233&hide_border=true&background=080a0f&ring=a5f26b&fire=a5f26b&currStreakLabel=a5f26b&sideLabels=c7d4c0&currStreakNum=ffffff&sideNums=ffffff&dates=6f7e70" height="165" alt="GitHub contribution streak" />
+[![GitHub contributions](https://ghchart.rshah.org/a5f26b/tymolu233)](https://github.com/tymolu233)
 
 </div>
 
