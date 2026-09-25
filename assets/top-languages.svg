@@ -6,21 +6,21 @@
 <text x="24" y="34" fill="#edf1f6" font-family="Space Grotesk, Arial, sans-serif" font-size="18px" font-weight="600" text-anchor="start">Top languages</text>
 <text x="24" y="57" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="11px" font-weight="400" text-anchor="start">original repositories only</text>
 <rect x="24" y="76" width="362" height="10" rx="5" fill="#202a2b"/>
-<rect x="24.00" y="76" width="218.94" height="10" fill="#a5f26b"/>
-<rect x="242.94" y="76" width="133.56" height="10" fill="#7fcbff"/>
-<rect x="376.49" y="76" width="3.05" height="10" fill="#ffca80"/>
+<rect x="24.00" y="76" width="218.71" height="10" fill="#a5f26b"/>
+<rect x="242.71" y="76" width="133.42" height="10" fill="#7fcbff"/>
+<rect x="376.12" y="76" width="3.43" height="10" fill="#ffca80"/>
 <rect x="379.55" y="76" width="3.00" height="10" fill="#d39cff"/>
 <rect x="382.55" y="76" width="3.00" height="10" fill="#ff8ca8"/>
 <rect x="385.55" y="76" width="0.45" height="10" fill="#72e0cb"/>
 <circle cx="28" cy="115" r="4" fill="#a5f26b"/>
 <text x="39" y="119" fill="#edf1f6" font-family="DM Sans, Arial, sans-serif" font-size="10px" font-weight="400" text-anchor="start">Rust</text>
-<text x="184" y="119" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="10px" font-weight="400" text-anchor="end">60.5%</text>
+<text x="184" y="119" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="10px" font-weight="400" text-anchor="end">60.4%</text>
 <circle cx="28" cy="139" r="4" fill="#7fcbff"/>
 <text x="39" y="143" fill="#edf1f6" font-family="DM Sans, Arial, sans-serif" font-size="10px" font-weight="400" text-anchor="start">Java</text>
 <text x="184" y="143" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="10px" font-weight="400" text-anchor="end">36.9%</text>
 <circle cx="28" cy="163" r="4" fill="#ffca80"/>
 <text x="39" y="167" fill="#edf1f6" font-family="DM Sans, Arial, sans-serif" font-size="10px" font-weight="400" text-anchor="start">TypeScript</text>
-<text x="184" y="167" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="10px" font-weight="400" text-anchor="end">0.8%</text>
+<text x="184" y="167" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="10px" font-weight="400" text-anchor="end">0.9%</text>
 <circle cx="212" cy="115" r="4" fill="#d39cff"/>
 <text x="223" y="119" fill="#edf1f6" font-family="DM Sans, Arial, sans-serif" font-size="10px" font-weight="400" text-anchor="start">Python</text>
 <text x="368" y="119" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="10px" font-weight="400" text-anchor="end">0.4%</text>
