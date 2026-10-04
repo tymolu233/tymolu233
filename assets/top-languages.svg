@@ -6,9 +6,9 @@
 <text x="24" y="34" fill="#edf1f6" font-family="Space Grotesk, Arial, sans-serif" font-size="18px" font-weight="600" text-anchor="start">Top languages</text>
 <text x="24" y="57" fill="#9aa7a1" font-family="IBM Plex Mono, monospace" font-size="11px" font-weight="400" text-anchor="start">original repositories only</text>
 <rect x="24" y="76" width="362" height="10" rx="5" fill="#202a2b"/>
-<rect x="24.00" y="76" width="218.05" height="10" fill="#a5f26b"/>
-<rect x="242.05" y="76" width="133.02" height="10" fill="#7fcbff"/>
-<rect x="375.07" y="76" width="4.45" height="10" fill="#ffca80"/>
+<rect x="24.00" y="76" width="218.07" height="10" fill="#a5f26b"/>
+<rect x="242.07" y="76" width="133.03" height="10" fill="#7fcbff"/>
+<rect x="375.09" y="76" width="4.43" height="10" fill="#ffca80"/>
 <rect x="379.52" y="76" width="3.00" height="10" fill="#d39cff"/>
 <rect x="382.52" y="76" width="3.00" height="10" fill="#ff8ca8"/>
 <rect x="385.52" y="76" width="0.48" height="10" fill="#72e0cb"/>
